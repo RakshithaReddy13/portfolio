@@ -187,7 +187,7 @@ sections:
 backgroundImage:
   type: BackgroundImage
   url: /images/desktop-wallpaper-portfolio-thumbnail.jpg
-  backgroundSize: auto
+  backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
   opacity: 100
