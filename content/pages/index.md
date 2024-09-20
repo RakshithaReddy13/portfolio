@@ -186,7 +186,7 @@ sections:
         textAlign: left
 backgroundImage:
   type: BackgroundImage
-  url: /images/gallery-1.jpg
+  url: /images/abstract-black-lines-geometric-background_677411-2748.avif
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
