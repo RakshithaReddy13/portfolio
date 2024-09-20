@@ -186,7 +186,7 @@ sections:
         textAlign: left
 backgroundImage:
   type: BackgroundImage
-  url: /images/post-1.jpg
+  url: /images/about.jpg
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
