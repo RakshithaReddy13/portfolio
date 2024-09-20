@@ -184,11 +184,4 @@ sections:
         textAlign: left
       text:
         textAlign: left
-backgroundImage:
-  type: BackgroundImage
-  url: /images/desktop-wallpaper-portfolio-thumbnail.jpg
-  backgroundSize: cover
-  backgroundPosition: center
-  backgroundRepeat: no-repeat
-  opacity: 100
 ---
