@@ -4,7 +4,7 @@ title: Projects
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/bg1.jpg
+  url: /images/abstract-black-lines-geometric-background_677411-2748.avif
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
