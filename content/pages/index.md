@@ -186,7 +186,7 @@ sections:
         textAlign: left
 backgroundImage:
   type: BackgroundImage
-  url: /images/about.jpg
+  url: /images/favicon.svg
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
