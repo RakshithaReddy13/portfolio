@@ -7,7 +7,11 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: Rakshitha Reddy
-    subtitle: I am a developer
+    subtitle: >-
+      I am a developer with expertise in Artificial Intelligence, Machine
+      Learning, and React. Passionate about creating innovative solutions, I
+      leverage cutting-edge technologies to build user-friendly applications
+      that enhance efficiency and engagement.
     styles:
       self:
         height: auto
