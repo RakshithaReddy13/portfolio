@@ -8,7 +8,6 @@ backgroundImage:
   backgroundPosition: center
   backgroundRepeat: no-repeat
   opacity: 75
-  url: /images/desktop-wallpaper-portfolio-thumbnail.jpg
 sections:
   - elementId: ''
     colors: colors-f
