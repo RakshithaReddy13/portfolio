@@ -5,14 +5,11 @@ colors: colors-a
 date: '2021-12-20'
 client: ''
 description: >-
-  In response to the unpredictable climatic conditions and pest attacks on
-  crops, this project aims to create an integrated model that can assist farmers
-  in detecting plant diseases and identifying pests. This technology will help
-  farmers make informed decisions about crop management, reduce crop losses, and
-  minimize the use of chemicals in agriculture. The proposed integrated model
-  will utilize Deep Learning algorithms and image recognition techniques to
-  accurately identify pests and plant diseases, making it a valuable tool for
-  farmers worldwide.
+  This project aims to assist farmers in detecting plant diseases and pests
+  using an integrated model that employs Deep Learning and image recognition
+  techniques. By enabling informed decision-making, it seeks to reduce crop
+  losses and chemical use, providing a valuable tool for sustainable agriculture
+  worldwide.
 featuredImage:
   type: ImageBlock
   url: /images/Picture.png
